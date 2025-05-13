@@ -16,3 +16,7 @@ Unreal Engine 5-ben készült játék, amely a hírhedt internetes creepypasta, 
 ## 📁 Projekt állapota
 
 > 🚧 **Jelenleg prototípus fázisban**  
+
+Letöltési link:
+
+https://drive.google.com/file/d/1M5GjkEM4Pw3-Dh3tqyg1sNFhWqlv2HAO/view?usp=sharing
